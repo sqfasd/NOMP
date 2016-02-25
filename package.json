@@ -31,7 +31,7 @@
         "url": "https://github.com/CoinHashMe/NOMP.git"
     },
     "dependencies": {
-        "stratum-pool": "git://github.com/CoinHashMe/node-stratum-pool-lyra2re.git#lyra2re",
+        "stratum-pool": "git://github.com/sqfasd/node-stratum-pool.git",
         "dateformat": "*",
         "node-json-minify": "*",
         "redis": "*",
